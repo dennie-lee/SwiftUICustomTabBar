@@ -15,6 +15,8 @@
 		5FA2A49128B26777004BA551 /* CustomTabBarContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA2A49028B26777004BA551 /* CustomTabBarContainerView.swift */; };
 		5FA2A49328B267BB004BA551 /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA2A49228B267BB004BA551 /* CustomTabBarView.swift */; };
 		5FA2A49528B267F0004BA551 /* TabBarItemsPreferenceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FA2A49428B267F0004BA551 /* TabBarItemsPreferenceKey.swift */; };
+		B99FB3A22B859EEE003BA0F6 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99FB3A12B859EEE003BA0F6 /* HomeView.swift */; };
+		B99FB3A42B859EFA003BA0F6 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99FB3A32B859EFA003BA0F6 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		5FA2A49028B26777004BA551 /* CustomTabBarContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarContainerView.swift; sourceTree = "<group>"; };
 		5FA2A49228B267BB004BA551 /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
 		5FA2A49428B267F0004BA551 /* TabBarItemsPreferenceKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItemsPreferenceKey.swift; sourceTree = "<group>"; };
+		B99FB3A12B859EEE003BA0F6 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		B99FB3A32B859EFA003BA0F6 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				5FA2A48D28B24F2B004BA551 /* CustomTabbar */,
 				5FA2A47F28B24F01004BA551 /* CustomTabbarDemoApp.swift */,
 				5FA2A48128B24F01004BA551 /* ContentView.swift */,
+				B99FB3A12B859EEE003BA0F6 /* HomeView.swift */,
+				B99FB3A32B859EFA003BA0F6 /* SecondView.swift */,
 				5FA2A48328B24F05004BA551 /* Assets.xcassets */,
 				5FA2A48528B24F05004BA551 /* Preview Content */,
 			);
@@ -158,6 +164,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5FA2A48F28B2673D004BA551 /* TabBarItem.swift in Sources */,
+				B99FB3A22B859EEE003BA0F6 /* HomeView.swift in Sources */,
+				B99FB3A42B859EFA003BA0F6 /* SecondView.swift in Sources */,
 				5FA2A49328B267BB004BA551 /* CustomTabBarView.swift in Sources */,
 				5FA2A48228B24F01004BA551 /* ContentView.swift in Sources */,
 				5FA2A49528B267F0004BA551 /* TabBarItemsPreferenceKey.swift in Sources */,
